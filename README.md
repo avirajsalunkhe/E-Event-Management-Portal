@@ -57,21 +57,11 @@ EventManagementSystems/
 
 ---
 
-## 📸 Screenshots
-> *(Add screenshots of the portal here)*
-
----
-
 ## 🤝 Contribution Guidelines
 1. Fork the repository.
 2. Create a new branch for your feature or fix.
 3. Commit your changes with clear messages.
 4. Push to your fork and create a pull request.
-
----
-
-## 📜 License
-This project is licensed under the **MIT License**.
 
 ---
 
