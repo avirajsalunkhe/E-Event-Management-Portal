@@ -39,7 +39,7 @@ EventManagementSystems/
 
 ---
 
-## 🚀 Installation
+## 🚀 Installation:
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/avirajsalunkhe/E-Event-Management-Portal.git
