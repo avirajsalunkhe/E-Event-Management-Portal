@@ -63,7 +63,7 @@ EventManagementSystems/
 3. Commit your changes with clear messages.
 4. Push to your fork and create a pull request.
 
----
+--- 
 
 ## 👨‍💻 Author
 **Aviraj Salunkhe**  
