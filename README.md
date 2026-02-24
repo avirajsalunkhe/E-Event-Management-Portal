@@ -36,7 +36,7 @@ EventManagementSystems/
 ├── utils/            # Reusable components like headers & footers
 ├── *.php             # Core application files
 ```
-
+ 
 ---
 
 ## 🚀 Installation:
