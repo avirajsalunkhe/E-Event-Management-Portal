@@ -23,7 +23,7 @@ This system aims to replace traditional paper-based event management with a cent
 - **Database:** MySQL
 - **Version Control:** Git & GitHub
 
----
+--- 
 
 ## 📂 Project Structure
 ```
